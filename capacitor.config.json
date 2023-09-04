@@ -1,0 +1,8 @@
+{
+  "appId": "com.rentalestate.app",
+  "appName": "rental-estate",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
